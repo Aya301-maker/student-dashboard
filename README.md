@@ -1,17 +1,17 @@
-# 📊 Student Dashboard
+ # 📊 Student Dashboard
 
 A simple student dashboard UI built using HTML and CSS.  
-This project displays a clean interface for tracking study-related information such as tasks, study hours, and progress.
+This project was built as a frontend practice to learn layout design and basic styling.
 
 ---
 
 ## 🚀 Features
 
-- Clean and modern UI design
-- Header with navigation links
+- Clean dashboard layout
 - Study statistics cards
 - Task list section
-- Simple responsive layout (basic)
+- Simple UI using HTML and CSS
+- Organized page structure
 
 ---
 
